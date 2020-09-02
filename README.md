@@ -12,4 +12,4 @@ My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relev
 3. Create environment and install `tensorflow-gpu` or `pytorch-gpu` (according to your need)
 
 ## Writeup Setup
-1. Install Latex & TexStudio using [Link](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
+1. Install Latex & TexStudio using this [Link](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
