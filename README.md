@@ -11,5 +11,8 @@ My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relev
 2. Install the Anaconda
 3. Create environment and install `tensorflow-gpu` or `pytorch-gpu` (according to your need)
 
+## Docker Directories
+1. You can change docker root directory by following [GUIDE](https://blog.adriel.co.nz/2018/01/25/change-docker-data-directory-in-debian-jessie)
+
 ## Writeup Setup
 1. Install Latex & TexStudio using this [Link](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
