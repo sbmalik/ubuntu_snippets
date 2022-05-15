@@ -15,5 +15,8 @@ My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relev
 ## Docker Directories
 1. You can change docker root directory by following [GUIDE](https://blog.adriel.co.nz/2018/01/25/change-docker-data-directory-in-debian-jessie)
 
+## Usefuls
+1. [Auto Mount Directory](https://www.linuxbabe.com/desktop-linux/how-to-automount-file-systems-on-linux)
+
 ## Writeup Setup
 1. Install Latex & TexStudio using this [Link](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
