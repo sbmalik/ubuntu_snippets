@@ -5,6 +5,7 @@ Snippets for Ubuntu Operating System
 My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relevant articles are following:
 * [Customize Dock Panel](https://linuxconfig.org/how-to-customize-dock-panel-on-ubuntu-18-04-bionic-beaver-linux)
 * [Adjust Title Bar](https://askubuntu.com/a/975432)
+* [Brightness Control](https://askubuntu.com/a/397104)
 * Customize Terminal: `export PS1="\e[0;32m$(whoami):${PWD/*\//}# \e[m"`
 
 ## Install GPU Libraries
