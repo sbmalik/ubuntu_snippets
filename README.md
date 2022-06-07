@@ -16,6 +16,9 @@ My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relev
 ## Docker Directories
 1. You can change docker root directory by following [GUIDE](https://blog.adriel.co.nz/2018/01/25/change-docker-data-directory-in-debian-jessie)
 
+## VS CODE
+1. Disable unresolved imports `"python.languageServer": "Jedi"`
+
 ## Usefuls
 1. [Auto Mount Directory](https://www.linuxbabe.com/desktop-linux/how-to-automount-file-systems-on-linux)
 
