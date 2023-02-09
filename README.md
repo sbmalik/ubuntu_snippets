@@ -3,10 +3,19 @@ Snippets for Ubuntu Operating System
 
 ## Customize Screen
 My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relevant articles are following:
-* [Customize Dock Panel](https://linuxconfig.org/how-to-customize-dock-panel-on-ubuntu-18-04-bionic-beaver-linux)
-* [Adjust Title Bar](https://askubuntu.com/a/975432)
+### Customize Dock Panel & Adjust Title Bar
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
+gsettings set org.gnome.shell.extensions.dash-to-dock dock-position BOTTOM
+gsettings set org.gnome.shell.extensions.dash-to-dock dash-max-icon-size 32
+gsettings set org.gnome.shell.extensions.dash-to-dock unity-backlit-items false
+gsettings set  org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:'
+
+# gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode FIXED
+```
+
+### Brightness Control
 * [Brightness Control](https://askubuntu.com/a/397104)
-* Customize Terminal: `export PS1="\e[0;32m$(whoami):${PWD/*\//}# \e[m"`
 
 ## Install GPU Libraries
 1. Install NVIDIA Drivers and check `nvidia-smi`
