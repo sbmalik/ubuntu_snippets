@@ -30,6 +30,7 @@ gsettings set  org.gnome.desktop.wm.preferences button-layout 'close,minimize,ma
 
 ## Usefuls
 1. [Auto Mount Directory](https://www.linuxbabe.com/desktop-linux/how-to-automount-file-systems-on-linux)
+2. **AnyDesk Auto Login** `sudo nano /etc/gdm3/custom.conf`
 
 ## Writeup Setup
 1. Install Latex & TexStudio using this [Link](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
