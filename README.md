@@ -19,8 +19,10 @@ gsettings set  org.gnome.desktop.wm.preferences button-layout 'close,minimize,ma
 
 ## Install GPU Libraries
 1. Install NVIDIA Drivers and check `nvidia-smi`
-2. Install the Anaconda
-3. Create environment and install `tensorflow-gpu` or `pytorch-gpu` (according to your need)
+2. Install the Docker & NVIDIA Docker 
+3. Install the Miniconda
+    
+    a. Create environment and install `tensorflow-gpu` or `pytorch-gpu` (according to your need)
 
 ## Docker Directories
 1. You can change docker root directory by following [GUIDE](https://blog.adriel.co.nz/2018/01/25/change-docker-data-directory-in-debian-jessie)
