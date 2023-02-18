@@ -1,9 +1,9 @@
 # ubuntu_snippets
 Snippets for Ubuntu Operating System
 
-## Customize Screen
-My favorite adjustments can be done using `dconf-editor` & `gnome tweaks`, relevant articles are following:
-### Customize Dock Panel & Adjust Title Bar
+
+## Customize Dock Panel & Adjust Title Bar (Convert Ubuntu looks to Mac)
+
 ```
 gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false
 gsettings set org.gnome.shell.extensions.dash-to-dock dock-position BOTTOM
